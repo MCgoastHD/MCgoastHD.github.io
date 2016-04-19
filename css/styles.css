@@ -1,23 +1,136 @@
-h1{
-	color: green;
+body{ 
+  background: #b9e8b8;
 }
 
-.rot{
-	color: #FF7054;
-}
 
-#link{
-	font-size: 55px;
-}
+
 .titel{
-
+	color: #b36b00;
+}
+#titel{
 	text-align: center;
-	color: #cca300
+	font-size: 35px;
+	
 }
-.1 {
-	font-size: 12px;
 
+#titel1{
+	text-align: center;
+	font-size: 40px;
+	font-family: Impact;
 }
-#q {
-	color: red;
+
+#HOME{
+	text-align: center;
+	color: #E81A18;
+	text-decoration: none;
+	font-size: 20px;
+	font-family: sans-serif;
+	display: block;
 }
+
+
+
+.content{
+	width: 960px;
+	height: auto;
+	margin: 0 auto;
+}
+
+.karte{
+	position: relative;
+}
+
+.karte img{
+	width: 100%;
+}
+
+.karte a:nth-child(2) {
+	position: absolute;
+	top: 129px;
+	left: 230px;
+	font-size: 25px;
+	color: #E8CC41;
+	text-decoration: none;
+}
+
+.karte a:nth-child(3) {
+	position: absolute;
+	top: 305px;
+	left: 292px;
+	color: #E8CC41;
+	font-size: 25px;
+	text-decoration: none;
+}
+
+.karte a:nth-child(4) {
+	position: absolute;
+	top: 341px;
+	left: 483px;
+	color: #E8CC41;
+	font-size: 25px;
+	text-decoration: none;
+}
+
+.karte a:nth-child(5) {
+	position: absolute;
+	top: 593px;
+	left: 817px;
+	color: #E8CC41;
+	font-size: 25px;
+	text-decoration: none;
+}
+
+.karte a:nth-child(6) {
+	position: absolute;
+	top: 655px;
+	left: 683px;
+	color: #E8CC41;
+	font-size: 25px;
+	text-decoration: none;
+}
+
+
+
+.top{
+	font-family: sans-serif;
+	color: #b36b00;
+	text-align: center;
+	font-size: 35px;
+}
+
+.mid{
+	font-family: sans-serif;
+	color: #b36b00;
+	text-align: center;
+	font-size: 30px;
+}
+
+
+
+.spieler{
+	text-align: left;
+	display: inline-block;
+	width: 188px;
+}
+
+.spieler h2{
+	text-align: center;
+}
+
+.spieler img{
+	width: 100px;
+	height: auto;
+	margin: 0 auto;
+	display: block;
+}
+
+.schrift{
+	font-family: Arial sans-serif;
+	color: black;
+}
+
+
+
+
+
+
